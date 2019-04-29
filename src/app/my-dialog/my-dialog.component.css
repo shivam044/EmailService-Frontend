@@ -1,0 +1,8 @@
+.align{
+    display: flex;
+    justify-content: flex-start;
+    /* align-items: ; */
+}
+.padding{
+    padding: 10px;
+}
